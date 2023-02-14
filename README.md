@@ -8,7 +8,7 @@ UI experiment to control lighting precisely with voice.
 
 ## Voice recognition
 
-Uses https://github.com/shawkatq/voice-commands-demo with the part that splits the audio stream up into individual commands we-written in C++.
+Uses https://github.com/shawkatq/voice-commands-demo with the part that splits the audio stream up into individual commands re-written in C++.
 
 ## Lighting control
 
